@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I am Debojyoti</h1>
+<h1 align="center">Hi 👋, I'm Debojyoti</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biodebojyoti&label=Profile%20views&color=0e75b6&style=flat" alt="biodebojyoti" /> </p>
 
 <h3 align="left">Connect with me:</h3>
