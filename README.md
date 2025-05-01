@@ -21,3 +21,10 @@
 ![Singularity](https://img.shields.io/badge/Singularity-A0A0A0?style=for-the-badge)
 ![Snakemake](https://img.shields.io/badge/Snakemake-333366?style=for-the-badge)
 ![Nextflow](https://img.shields.io/badge/Nextflow-0B2C4A?style=for-the-badge)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![Dash](https://img.shields.io/badge/Dash-0175C2?logo=plotly&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+
+![HPC](https://img.shields.io/badge/High--Performance--Computing-003366?style=for-the-badge)
